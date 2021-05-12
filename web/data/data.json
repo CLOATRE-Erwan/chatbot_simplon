@@ -1,0 +1,126 @@
+{
+    "tag":"greetings",
+    "input":["hey salut", "bonjour", "yo", "salut", "salutation", "bien le bonjour"],
+    "responses_learner":["Bonjour !, Comment puis-je vous aider ?", "Bonjour !, Avez-vous besion d'aider ?", "Bonjour !, Que voulez vous ?"],
+    "responses_business":["Bonjour !, Comment puis-je vous aider ?", "Bonjour !, Avez-vous besion d'aider ?", "Bonjour !, Que voulez vous ?"]
+}
+{
+    "tag":"goodbye",
+    "input":["a plus", "au revoir", "ciao", "a+", "bonne journee","bonne soiree","à plus tard","a bientot","adieu", "merci pour les info", "merci", "ok, merci"],
+    "responses_learner":["Ce fût un plaisir, A bientôt !","Heureux de vous avoir aidé, Bonne journée ! ", "Au plaisir de vous revoir !"],
+    "responses_business":["Ce fût un plaisir, A bientôt !","Heureux de vous avoir aidé, Bonne journée ! ", "Au plaisir de vous revoir !"]
+}
+{
+    "tag":"whatismicrosoftia",
+    "input":["microsoft ia ?", "qu'est-ce que microsoft ia brest+ ?", "l'ecole microsoft ia brest+?", "c'est quoi l'ecol microsoft ia ?", "microsoft ia, c'est quoi ?", " des info sur mocrisift ia brest+ ?", "l'ecole microsoft ia ?"],
+    "responses_learner":["Engagée en matière d’égalité des chances et convaincue que ces opportunités d’emplois ne doivent pas être réservées à une élite, Microsoft a créé en 2018 en partenariat avec Simplon une école unique et alternative : l’École IA Microsoft By Simplon."],
+    "responses_business":["Engagée en matière d’égalité des chances et convaincue que ces opportunités d’emplois ne doivent pas être réservées à une élite, Microsoft a créé en 2018 en partenariat avec Simplon une école unique et alternative : l’École IA Microsoft By Simplon."]
+}
+{
+    "tag":"whatissimplon",
+    "input":["simplon ?", "qu'est-ce que Simplon ?", "simplon, c'est quoi ?", "je voudrais des information sur simplon", "simplon, des info ?", "c'est quoi simplon ?"],
+    "responses_learner":["Simplon.co est un réseau de Fabriques solidaires et inclusives qui proposent des formations gratuites aux métiers techniques du numérique en France et à l’étranger"],
+    "responses_business":["Simplon.co est un réseau de Fabriques solidaires et inclusives qui proposent des formations gratuites aux métiers techniques du numérique en France et à l’étranger"]
+}
+{
+    "tag":"whatisdevia",
+    "input":["qu'est-ce q'un développeur en Intelligence artificielle ?", "c'est quoi un dev ia ?", "dévelopeur en intelligence artificielle ?", "developeur ia ?"],
+    "responses_learner":["Le développeur.se en IA est un spécialiste du développement d’applicatifs informatiques autour de l’IA et de la Data Science. Intégré dans la résolution d’une problématique métier définie par l’organisation, son rôle est de développer des solutions informatiques utilisables par des spécialistes et des non-spécialistes, intégrant directement ou indirectement des briques d’Intelligence Artificielle (par exemple : algorithmes de Machine Learning). Il conçoit, teste et adapte les applicatifs intégrant tout ou partie de ces technologies."],
+    "responses_business":["Le développeur.se en IA est un spécialiste du développement d’applicatifs informatiques autour de l’IA et de la Data Science. Intégré dans la résolution d’une problématique métier définie par l’organisation, son rôle est de développer des solutions informatiques utilisables par des spécialistes et des non-spécialistes, intégrant directement ou indirectement des briques d’Intelligence Artificielle (par exemple : algorithmes de Machine Learning). Il conçoit, teste et adapte les applicatifs intégrant tout ou partie de ces technologies."]
+}
+{
+    "tag":"prerequisite",
+    "input":["prerequis ?", "quel sont les prerequis ?", "faut-il des prerequis ?", "y a-t-il besion de prerequis ?","y a-t-il des conditions ?", "quelles conditons sont à remplir ?", "existe-t-il des conditions ?","Quels sont les prerequis pour entrer dans la formation ?"],
+    "responses_learner":["La formation est ouverte à toute personne inscrite en tant que demandeur.se d’emploi.Très forte motivation, à prouver !Découvrir le monde de la donnée soi-même (ex. plateformes d'apprentissage en ligne).Une première expérience en programmation (connaissance d’un langage de programmation back-end).Un niveau lycée en mathématiques (fonctions et dérivées à minima).Explorer les principaux métiers du numérique, ce qu’ils font, à quoi ils servent.Vouloir travailler en équipe.Ce que nous cherchons ? De la curiosité, de la créativité, une bonne expression à l’oral et à l’écrit, une représentation claire du métier… et bien sûr, l’envie de s’engager dans une formation intense ! Une attention particulière sera donnée aux candidat.e.s issu.e.s des formations labellisées GEN (spécialisation \"développeur\") ou assimilées, ainsi qu'aux profils sous-représentés dans le secteur du numérique."],
+    "responses_business":["comming soon"]
+}
+{
+    "tag":"price",
+    "input":["la formation est-elle payante ?", "quel est le prix de la formation ?", "prix de la formation ?", "combien coûte la formation ?", "combien elle coute ?", "la formation est-elle cher ?", "la formation est-elle gratuite ?", "quel est le cout ?"],
+    "responses_learner":["Gratuit pour les bénéficiaires grâce aux entreprises partenaires financeurs de la formation et aux fonds de financement de la formation professionnelle. (Pour les financeurs de la formation professionnelle des demandeurs d'emploi : 16€ à 25€ de l'heure selon la qualification visée et l'accompagnement à mobiliser.)"],
+    "responses_business":["comming soon"]
+}
+{
+    "tag":"pedagogy",
+    "input":["comment fonctionne l'ecole ?", "quel est la pedagogie ?","comment fonctionne simplon ?","comment est organisee la formation"],
+    "responses_learner":["Le fonctionnement de simplon se base sur la pédagogie active, le travail en équipe, le \"Learning by teaching\", l'évaluation par compétence. Vous etes acteur de votre apprentissages. Pour résumer tout l'apprentissage se fait par projet(travail en équipe), il n'y a pas de cours(pédagogie active) et pas de note, vous serais evalué sur vos compétence."],
+    "responses_business":["comming soon"]
+}
+{
+    "tag":"inscription",
+    "input":["comment on s'inscrit ?", "ou se passe l'inscription ?","comment recurez des apprenants ?","comment devient-on partenaire ?"],
+    "responses_learner":["Vous pouvez vous inscrire a cette adresse : https://simplon.co/i-apply/ecole-ia-microsoft/23"],
+    "responses_business":["Vous pouvez recrutez des talents formés par Simplon a cette adresse :https://simplon.co/recrutez-des-talents-formes-par-simplon.html","Vouz pouvez vous inscrire en tant que partenaire ou a l'ecosysteme ici : https://simplon.co/ecosysteme-et-partenaires.html","Vous pouvez trouver les informations pour les entreprise et le partenaria ici : https://simplon.co/entreprises-et-associations.html"]
+}
+{
+    "tag":"nextsession",
+    "input":["c'est quand le prochaine session ?", "quand ce passe la prochaine formation ?","y a-t-il plusieurs sessions dans l'annee ? "],
+    "responses_learner":["Vous pouvez trouvez toutes les sessions ici : https://simplon.co/i-apply/ecole-ia-microsoft/23"],
+    "responses_business":["Vous pouvez trouvez toutes les sessions ici : https://simplon.co/i-apply/ecole-ia-microsoft/23"]
+}
+{
+    "tag":"pcspecs",
+    "input":["quel ordinateur doit-on avoir ?", "un pc est-il prete pour la formation ?", "quel configuration de pc y a-t-il besion ?", "est-ce que le materiel est fourni?", "faut-il acheter un ordinateur?", "faut-il acheter un ordinateur portable?","quel est le materiel utilisé pendant la formation "],
+    "responses_learner":["Simplon vous fournira un ordinateur portable lenovo ThinkPad contre une caution de 400€. Ce PC possède un proccesseur Intel(R) Core(TM) i5-53XX CPU@, 16GO de RAM, et est installé dessus Windows 10 64 bits. Mais vous pouvez utiliser le votre si vous le voulez."],
+    "responses_business":["Chaque apprenants recevra un ordinateur portable lenovo ThinkPad contre une caution de 400€. Ce PC possède un proccesseur Intel(R) Core(TM) i5-53XX CPU@, 16GO de RAM, et est installé dessus Windows 10 64 bits."]
+}
+{
+    "tag":"timetable",
+    "input":["combien de temps dure la formation ?", "ça dure combien de temps", "quel sont les horaires ?", "Horaires par jours ?", "quel est le planning ?", "la formation dure longtmps ?","comment se deroule la formation?"],
+    "responses_learner":["La formation est composé d'un cursus de 7 mois intensif en centre, complétée par 12 mois en alternance au sein d'entreprises partenaires. De 9h a 12h30 le matin puis de 14h a 17h30 l'aprés-midi, du lundi au vendredi(35h par semaine)."],
+    "responses_business":["La formation est composé d'un cursus de 7 mois intensif en centre, complétée par 12 mois en alternance au sein d'entreprises partenaires. De 9h a 12h30 le matin puis de 14h a 17h30 l'aprés-midi, du lundi au vendredi(35h par semaine)."]
+}
+{
+    "tag":"whatisia",
+    "input":["ia ?", "c'est quoi l'ia?","qu'est ce que l'ia ? ", "intelligence artificielle ?", "c'est quoi l'intelligence artificielle ?","qu'est ce que l'intelligence artificielle ?" ],
+    "responses_learner":["En clair, l’intelligence artificielle est un vaste domaine touchant autant à l’informatique qu’aux mathématiques, mais également à la neuroscience et même à la philosophie. L’IA s’appuie sur des algorithmes en mesure d’ajuster leurs calculs en fonction des traitements qu’ils ont à effectuer. Ces réseaux de neurones artificiels, constitués de serveurs puissants, permettent de traiter de nombreuses sources d’informations issues de gigantesques bases de données en effectuant de lourds calculs."],
+    "responses_business":["En clair, l’intelligence artificielle est un vaste domaine touchant autant à l’informatique qu’aux mathématiques, mais également à la neuroscience et même à la philosophie. L’IA s’appuie sur des algorithmes en mesure d’ajuster leurs calculs en fonction des traitements qu’ils ont à effectuer. Ces réseaux de neurones artificiels, constitués de serveurs puissants, permettent de traiter de nombreuses sources d’informations issues de gigantesques bases de données en effectuant de lourds calculs."]
+}
+{
+    "tag":"whyia",
+    "input":["pourquoi l'ia ? ", "pourquoi l'intelligence artificielle ?","pourquoi faire de l'ai ?","pourquoi faire de l'intelligeance artifficielle ?"],
+    "responses_learner":["L’intelligence artificielle et son potentiel illimité se sont rapidement transformés en un marché en pleine croissance, dans lequel les entreprises s’arrachent les meilleurs ingénieurs et développeurs spécialisés. Cette dernière décennie, plusieurs start-ups spécialisées dans le développement de l’intelligence artificielle au travers de diverses branches ont vu le jour, particulièrement au sein de la Silicon Valley, aux États-Unis."],
+    "responses_business":["Les géants du web tels que Google, Amazon, Facebook et Apple (les GAFA, ou GAFAM en ajoutant à cette liste Microsoft), se mènent une rude concurrence afin de racheter la dernière start-up innovante en matière d’IA. Une économie entière dédiée à l’intelligence artificielle a vu le jour, avec pas moins de 600 milliards de dollars d’investissements pouvant être réalisés au sein de la Silicon Valley, en une seule année. Un chiffre en constante croissance, qui depuis le début de cette économie, boostée notamment par l’arrivée des logiciels de reconnaissance faciale et assistants vocaux, devrait avoir doublé d’ici 2020."]
+}
+{
+    "tag":"potentialia",
+    "input":["que m'apportent l'ia", "que m'apporterait l'intelligence artificielle", "a quoi peu me servir l'ia ?", "a quoi sert l'ia ?", "l'ai ça peu servir a quoi ?", "ça m'apport quoi l'ai ?"],
+    "responses_learner":["L'IA peut apporter une meilleure gestion du temps réel des prix, recommander des produits sur mesure, une Stratégie de marketing personnalisé."],
+    "responses_business":["L'IA peut apporter une meilleure gestion du temps réel des prix, recommander des produits sur mesure, une Stratégie de marketing personnalisé."]
+}
+{
+    "tag":"educationprogram",
+    "input":["quel est le programme de la formation? ", "c'est quoi le programme ?", "quel est le programme ?", "y a-t-il un programme ?", "de quoi est constite le programme ?"],
+    "responses_learner":["Au programme de cette formation, il y aura l'apprentissage du langage Python,  Machine Learning avec les principaux algorythmes, Deep Learning avec une grande partie d'analyse d'images."],
+    "responses_business":["Au programme de cette formation, il y aura l'apprentissage du langage Python,  Machine Learning avec les principaux algorythmes, Deep Learning avec une grande partie d'analyse d'images."]
+}
+{
+    "tag":"software",
+    "input":["quels sont les logiciels utilises au cours de la formation? ", "quel logiciel utilise-t-on ?", "ça sera quoi les logiciels ?"],
+    "responses_learner":["Durant cette formation Anaconda(une distribution libre et open source des langages de programmation Python et R) sera beacoup utilisé, mais aussi jupyter notebook(projet open source de notebook) et un IDE de votre choix. Ansi que d'autre logiciel dépendant des techologie vue pendant la formation."],
+    "responses_business":["L'apprenants utillisra Anaconda(une distribution libre et open source des langages de programmation Python et R), jupyter notebook(projet open source de notebook) et un IDE, mais aussi les logiciel dépendant des techologie vue pendant la formation."]
+}
+{
+    "tag":"poleemploi",
+    "input":["pole emploi peut financer ?", "pole emplois peut aider ?", " des aides de pole emploi ?"],
+    "responses_learner":[ "Il faudra soumettre votre projet à votre conseiller."],
+    "responses_business":["Il y a des aides prévu à cet effet."]
+}
+{
+    "tag":"financialhelp",
+    "input":["quel est la remuneration? ", "quels sont les aides fournis", "existe-t-il des aides ?","il ya des aide ?", "y a-t-il une aide à l'insertion ?"],
+    "responses_learner":["Pour les chômeurs indemmnisés, rien ne change jusqu'à la fin de leur droit. Pour ceux  qui ont peu d'heures de travail, une aide de la région est prévue."],
+    "responses_business":["Pour les chômeurs indemmnisés, rien ne change jusqu'à la fin de leur droit. Pour ceux  qui ont peu d'heures de travail, une aide de la région est prévue."]
+}
+{
+    "tag":"nature",
+    "input":["Quelle est la nature de la validation ?", "comment valide-t-on la formation ?","on valide comment ?","c'est quoi la nature pour valider ?"],
+    "responses_learner":["La formation est une certification RNCP : https://www.francecompetences.fr/recherche/rncp/34757/#ancre1"],
+    "responses_business":["La formation est une certification RNCP : https://www.francecompetences.fr/recherche/rncp/34757/#ancre1"]
+}
+{
+    "tag":"validation",
+    "input":["Quel type d'examen est prevu en fin de formation ?","y a-t-il des evaluations en cours de formation ?","c'est quoi l'exam de fin ?","on est evalue pendant la formation ?" ],
+    "responses_learner":["l'examen pour valider la certification RNCP est un projet chef d'oeuvre : Dossier écrit qui rend compte des activités menées par l’apprenant que ce soit en entreprise ou dans le cadre des projets en cours de formation. Il ya aussi des compétence en validation continue qu'il nécessaire de validé pour obtenir la certification."],
+    "responses_business":["l'examen pour valider la certification RNCP est un projet chef d'oeuvre : Dossier écrit qui rend compte des activités menées par l’apprenant que ce soit en entreprise ou dans le cadre des projets en cours de formation. Il ya aussi des compétence en validation continue qu'il nécessaire de validé pour obtenir la certification."]
+}

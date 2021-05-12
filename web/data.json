@@ -1,0 +1,21 @@
+{"intents":
+    [
+        {
+            "tag":"greetings",
+            "input":["Hey salut", "Bonjour", "Hello", "Yo"],
+            "responses":["Hey salut", "Bonjour", "Hello", "Yo"]
+        },
+
+        {
+            "tag":"goodbye",
+            "input":["A plus", "Au revoir", "Ciao"],
+            "responses":["Bonne nuit","Au revoir","A bientôt","Bonne après-midi"]
+        },
+        
+        {
+            "tag":"",
+            "input":["", "", ""],
+            "responses":[]
+        }
+    ]
+}

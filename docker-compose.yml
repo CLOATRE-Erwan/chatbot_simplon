@@ -1,0 +1,25 @@
+version: "3"
+services:
+    mongodb:
+        image : mongo
+        container_name: mongodb
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: isen
+            MONGO_INITDB_ROOT_PASSWORD: isenBrest
+        ports:
+            - 27017:27017
+        volumes:
+            - /home/furiga/Bureau/chatbot_simplon/data/data:/data/db
+        ports:
+            - 27017:27017
+        restart: unless-stopped
+
+
+    api:
+        image: api_chatbot
+        build: 
+            context: .
+            dockerfile: app/Dockerfile
+        ports: 
+            - 80:80
+        restart: unless-stopped
